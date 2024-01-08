@@ -1,13 +1,14 @@
 # Site settings
-title: model preview
+title: 小模型测试
 description: 小练习
-theme: jekyll-theme-minimal
+# 好看的theme
+theme: jekyll-theme-cayman
 
 # GitHub Pages settings
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+remote_theme: pmarsceill/just-the-docs
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
