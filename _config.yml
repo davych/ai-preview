@@ -1,0 +1,18 @@
+# Site settings
+title: model preview
+description: 小练习
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
